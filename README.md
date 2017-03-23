@@ -1,5 +1,9 @@
-# helloworld
-
-Hi Everyone,
-
-My name is Radhika
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>JavaScript Hello World</title>
+</head>
+<body>
+<h1>JavaScript Hello World Example</h1>
+</body>
+</html>
